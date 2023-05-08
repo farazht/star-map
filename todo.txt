@@ -1,0 +1,7 @@
+PLAN: Show map at user position
+
+- User inputs position in lat/long
+- ??
+
+LAT/LONG is position on Earth
+RA/DEC are Earth position cast onto celestial sphere
